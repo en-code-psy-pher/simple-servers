@@ -1,0 +1,52 @@
+[2:19:58.285] Global cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8', safe file path 'c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typingsafelist.json', types map path c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json
+[2:19:58.286] Processing cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8'
+[2:19:58.287] Trying to find 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json'...
+[2:19:58.289] Loaded content of 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.488"},"devDependencies":{"@types/basic-auth":"^1.1.3","@types/body-parser":"^1.19.0","@types/bson":"^4.0.2","@types/bytes":"^3.1.0","@types/content-type":"^1.1.3","@types/cors":"^2.8.6","@types/depd":"^1.1.32","@types/ee-first":"^1.1.0","@types/express":"^4.17.6","@types/helmet":"0.0.46","@types/http-errors":"^1.6.3","@types/merge-descriptors":"^1.0.1","@types/mongodb":"^3.5.14","@types/morgan":"^1.9.0","@types/object-assign":"^4.0.30","@types/on-finished":"^2.3.1","@types/on-headers":"^1.0.0","@types/qs":"^6.9.1","@types/serve-static":"^1.13.3","@types/type-is":"^1.6.3","@types/vary":"^1.1.0"}}
+[2:19:58.289] Loaded content of 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package-lock.json'
+[2:19:58.304] Adding entry into typings cache: 'basic-auth' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/basic-auth/index.d.ts'
+[2:19:58.309] Adding entry into typings cache: 'body-parser' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/body-parser/index.d.ts'
+[2:19:58.313] Adding entry into typings cache: 'bson' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/bson/index.d.ts'
+[2:19:58.317] Adding entry into typings cache: 'bytes' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/bytes/index.d.ts'
+[2:19:58.321] Adding entry into typings cache: 'content-type' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/content-type/index.d.ts'
+[2:19:58.326] Adding entry into typings cache: 'cors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/cors/index.d.ts'
+[2:19:58.329] Adding entry into typings cache: 'depd' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/depd/index.d.ts'
+[2:19:58.332] Adding entry into typings cache: 'ee-first' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/ee-first/index.d.ts'
+[2:19:58.337] Adding entry into typings cache: 'express' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/express/index.d.ts'
+[2:19:58.345] Adding entry into typings cache: 'helmet' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/helmet/index.d.ts'
+[2:19:58.351] Adding entry into typings cache: 'http-errors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/http-errors/index.d.ts'
+[2:19:58.354] Adding entry into typings cache: 'merge-descriptors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/merge-descriptors/index.d.ts'
+[2:19:58.358] Adding entry into typings cache: 'mongodb' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/mongodb/index.d.ts'
+[2:19:58.361] Adding entry into typings cache: 'morgan' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/morgan/index.d.ts'
+[2:19:58.364] Adding entry into typings cache: 'object-assign' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/object-assign/index.d.ts'
+[2:19:58.367] Adding entry into typings cache: 'on-finished' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/on-finished/index.d.ts'
+[2:19:58.370] Adding entry into typings cache: 'on-headers' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/on-headers/index.d.ts'
+[2:19:58.373] Adding entry into typings cache: 'qs' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/qs/index.d.ts'
+[2:19:58.376] Adding entry into typings cache: 'serve-static' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/serve-static/index.d.ts'
+[2:19:58.379] Adding entry into typings cache: 'type-is' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/type-is/index.d.ts'
+[2:19:58.383] Adding entry into typings cache: 'vary' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/vary/index.d.ts'
+[2:19:58.384] Finished processing cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8'
+[2:19:58.384] Process id: 28360
+[2:19:58.385] NPM location: "C:\Program Files\nodejs\npm" (explicit '--npmLocation' not  provided)
+[2:19:58.385] validateDefaultNpmLocation: false
+[2:19:58.385] Npm config file: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json
+[2:19:58.385] Updating types-registry npm package...
+[2:19:58.386] Exec: "C:\Program Files\nodejs\npm" install --ignore-scripts types-registry@latest
+[2:20:1.683]     Succeeded. stdout:
+    + types-registry@0.1.488
+    updated 1 package and audited 95 packages in 2.066s
+found 0 vulnerabilities
+
+
+[2:20:1.684] Updated types-registry npm package
+[2:20:1.694] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/database/buds.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src/database","kind":"discover"}
+[2:20:1.705] Loaded safelist from types map file 'c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json'
+[2:20:1.706] Explicitly included types: []
+[2:20:1.708] Inferred typings from unresolved imports: []
+[2:20:1.708] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules"]}
+[2:20:1.709] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules"]}
+[2:20:1.709] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/database/bower_components
+[2:20:1.711] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/database/node_modules
+[2:20:1.712] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[2:20:1.712] Response has been sent.
+[2:20:1.712] No new typings were requested as a result of typings discovery

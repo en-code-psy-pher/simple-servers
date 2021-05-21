@@ -1,0 +1,271 @@
+[23:46:43.974] Global cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8', safe file path 'c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typingsafelist.json', types map path c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json
+[23:46:43.976] Processing cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8'
+[23:46:43.976] Trying to find 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json'...
+[23:46:43.977] Loaded content of 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.488"},"devDependencies":{"@types/basic-auth":"^1.1.3","@types/body-parser":"^1.19.0","@types/bson":"^4.0.2","@types/bytes":"^3.1.0","@types/content-type":"^1.1.3","@types/cors":"^2.8.6","@types/depd":"^1.1.32","@types/ee-first":"^1.1.0","@types/express":"^4.17.6","@types/helmet":"0.0.46","@types/http-errors":"^1.6.3","@types/merge-descriptors":"^1.0.1","@types/mongodb":"^3.5.14","@types/morgan":"^1.9.0","@types/object-assign":"^4.0.30","@types/on-finished":"^2.3.1","@types/on-headers":"^1.0.0","@types/qs":"^6.9.1","@types/serve-static":"^1.13.3","@types/type-is":"^1.6.3","@types/vary":"^1.1.0"}}
+[23:46:43.978] Loaded content of 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package-lock.json'
+[23:46:43.991] Adding entry into typings cache: 'basic-auth' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/basic-auth/index.d.ts'
+[23:46:43.995] Adding entry into typings cache: 'body-parser' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/body-parser/index.d.ts'
+[23:46:44.0] Adding entry into typings cache: 'bson' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/bson/index.d.ts'
+[23:46:44.4] Adding entry into typings cache: 'bytes' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/bytes/index.d.ts'
+[23:46:44.12] Adding entry into typings cache: 'content-type' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/content-type/index.d.ts'
+[23:46:44.17] Adding entry into typings cache: 'cors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/cors/index.d.ts'
+[23:46:44.22] Adding entry into typings cache: 'depd' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/depd/index.d.ts'
+[23:46:44.27] Adding entry into typings cache: 'ee-first' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/ee-first/index.d.ts'
+[23:46:44.31] Adding entry into typings cache: 'express' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/express/index.d.ts'
+[23:46:44.36] Adding entry into typings cache: 'helmet' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/helmet/index.d.ts'
+[23:46:44.40] Adding entry into typings cache: 'http-errors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/http-errors/index.d.ts'
+[23:46:44.43] Adding entry into typings cache: 'merge-descriptors' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/merge-descriptors/index.d.ts'
+[23:46:44.46] Adding entry into typings cache: 'mongodb' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/mongodb/index.d.ts'
+[23:46:44.48] Adding entry into typings cache: 'morgan' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/morgan/index.d.ts'
+[23:46:44.53] Adding entry into typings cache: 'object-assign' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/object-assign/index.d.ts'
+[23:46:44.58] Adding entry into typings cache: 'on-finished' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/on-finished/index.d.ts'
+[23:46:44.61] Adding entry into typings cache: 'on-headers' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/on-headers/index.d.ts'
+[23:46:44.64] Adding entry into typings cache: 'qs' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/qs/index.d.ts'
+[23:46:44.66] Adding entry into typings cache: 'serve-static' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/serve-static/index.d.ts'
+[23:46:44.69] Adding entry into typings cache: 'type-is' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/type-is/index.d.ts'
+[23:46:44.71] Adding entry into typings cache: 'vary' => 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/@types/vary/index.d.ts'
+[23:46:44.71] Finished processing cache location 'C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8'
+[23:46:44.72] Process id: 33188
+[23:46:44.72] NPM location: "C:\Program Files\nodejs\npm" (explicit '--npmLocation' not  provided)
+[23:46:44.72] validateDefaultNpmLocation: false
+[23:46:44.72] Npm config file: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/package.json
+[23:46:44.73] Updating types-registry npm package...
+[23:46:44.73] Exec: "C:\Program Files\nodejs\npm" install --ignore-scripts types-registry@latest
+[23:46:46.661]     Succeeded. stdout:
+    + types-registry@0.1.488
+    updated 1 package and audited 95 packages in 1.598s
+found 0 vulnerabilities
+
+
+[23:46:46.662] Updated types-registry npm package
+[23:46:46.673] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:46:46.689] Loaded safelist from types map file 'c:/users/owner/appdata/roaming/npm/node_modules/typescript/lib/typesmap.json'
+[23:46:46.690] Explicitly included types: []
+[23:46:46.691] Inferred typings from unresolved imports: []
+[23:46:46.691] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:46:46.692] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:46:46.692] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/bower_components
+[23:46:46.694] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/node_modules
+[23:46:46.695] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:46:46.695] Response has been sent.
+[23:46:46.695] No new typings were requested as a result of typings discovery
+[23:47:20.449] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[""],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:20.449] Explicitly included types: []
+[23:47:20.450] Inferred typings from unresolved imports: [""]
+[23:47:20.450] Result: {"cachedTypingPaths":[],"newTypingNames":[""],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:20.450] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[""],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:20.451] Installing typings [""]
+[23:47:20.451] '':: Package name '' cannot be empty
+[23:47:20.451] All typings are known to be missing or invalid - no need to install more typings
+[23:47:20.451] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[""],"kind":"action::set"}
+[23:47:20.452] Response has been sent.
+[23:47:25.232] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:25.232] Explicitly included types: []
+[23:47:25.232] Inferred typings from unresolved imports: []
+[23:47:25.233] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:25.233] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:25.233] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:47:25.233] Response has been sent.
+[23:47:25.233] No new typings were requested as a result of typings discovery
+[23:47:30.465] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["monogodb-memory-server"],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:30.466] Explicitly included types: []
+[23:47:30.467] Inferred typings from unresolved imports: ["monogodb-memory-server"]
+[23:47:30.468] Result: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.468] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.468] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/database
+[23:47:30.469] Installing typings ["monogodb-memory-server"]
+[23:47:30.470] 'monogodb-memory-server':: Entry for package 'monogodb-memory-server' does not exist in local types registry - skipping...
+[23:47:30.470] All typings are known to be missing or invalid - no need to install more typings
+[23:47:30.471] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["monogodb-memory-server"],"kind":"action::set"}
+[23:47:30.471] Response has been sent.
+[23:47:30.586] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:30.586] Explicitly included types: []
+[23:47:30.586] Inferred typings from unresolved imports: []
+[23:47:30.587] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.587] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.587] DirectoryWatcher:: Closed:: WatchInfo: w:/SimpleServers/js/src/database
+[23:47:30.587] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:47:30.588] Response has been sent.
+[23:47:30.588] No new typings were requested as a result of typings discovery
+[23:47:30.596] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:30.596] Explicitly included types: []
+[23:47:30.597] Inferred typings from unresolved imports: []
+[23:47:30.597] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.597] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:30.598] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:47:30.598] Response has been sent.
+[23:47:30.598] No new typings were requested as a result of typings discovery
+[23:47:31.895] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["monogodb-memory-server"],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:31.895] Explicitly included types: []
+[23:47:31.896] Inferred typings from unresolved imports: ["monogodb-memory-server"]
+[23:47:31.896] Result: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:31.896] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:31.897] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/database
+[23:47:31.897] Installing typings ["monogodb-memory-server"]
+[23:47:31.897] 'monogodb-memory-server':: Entry for package 'monogodb-memory-server' does not exist in local types registry - skipping...
+[23:47:31.898] All typings are known to be missing or invalid - no need to install more typings
+[23:47:31.898] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["monogodb-memory-server"],"kind":"action::set"}
+[23:47:31.898] Response has been sent.
+[23:47:37.43] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/database/ads.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["monogodb-memory-server"],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:47:37.43] Explicitly included types: []
+[23:47:37.44] Inferred typings from unresolved imports: ["monogodb-memory-server"]
+[23:47:37.44] Result: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:37.44] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:47:37.45] Installing typings ["monogodb-memory-server"]
+[23:47:37.45] 'monogodb-memory-server':: Entry for package 'monogodb-memory-server' does not exist in local types registry - skipping...
+[23:47:37.45] All typings are known to be missing or invalid - no need to install more typings
+[23:47:37.45] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["monogodb-memory-server"],"kind":"action::set"}
+[23:47:37.46] Response has been sent.
+[23:48:0.492] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:48:0.493] Explicitly included types: []
+[23:48:0.493] Inferred typings from unresolved imports: []
+[23:48:0.493] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:48:0.494] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:48:0.494] DirectoryWatcher:: Closed:: WatchInfo: w:/SimpleServers/js/src/database
+[23:48:0.494] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:48:0.494] Response has been sent.
+[23:48:0.494] No new typings were requested as a result of typings discovery
+[23:48:1.663] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/database/ads.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["monogodb-memory-server"],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:48:1.664] Explicitly included types: []
+[23:48:1.665] Inferred typings from unresolved imports: ["monogodb-memory-server"]
+[23:48:1.665] Result: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:48:1.666] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":["monogodb-memory-server"],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:48:1.666] DirectoryWatcher:: Added:: WatchInfo: w:/SimpleServers/js/src/database
+[23:48:1.667] Installing typings ["monogodb-memory-server"]
+[23:48:1.668] 'monogodb-memory-server':: Entry for package 'monogodb-memory-server' does not exist in local types registry - skipping...
+[23:48:1.668] All typings are known to be missing or invalid - no need to install more typings
+[23:48:1.668] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":["monogodb-memory-server"],"kind":"action::set"}
+[23:48:1.669] Response has been sent.
+[23:54:17.107] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs1lFlSe :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:17.107] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs1lFlSe :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:17.108] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:18.81] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsJhsXpl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:18.82] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsJhsXpl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:18.95] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:19.418] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/database/ads.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[23:54:19.418] Explicitly included types: []
+[23:54:19.419] Inferred typings from unresolved imports: []
+[23:54:19.419] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:54:19.419] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[23:54:19.420] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:54:19.420] Response has been sent.
+[23:54:19.421] No new typings were requested as a result of typings discovery
+[23:54:48.694] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsjM8909 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:48.695] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsjM8909 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:48.696] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:50.240] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsh61GCs :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:50.242] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsh61GCs :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:54:50.254] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:23.807] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsUc27en :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:23.808] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsUc27en :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:23.809] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:32.230] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs2k1CmF :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:32.234] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs2k1CmF :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:55:32.245] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:56:52.239] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsOLHk6X :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:56:52.242] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsOLHk6X :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:56:52.243] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:15.130] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsBJwpJ5 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:15.133] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsBJwpJ5 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:15.145] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:24.210] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsxJSKKl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:24.211] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsxJSKKl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:24.212] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:47.889] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsopRruo :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:47.890] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsopRruo :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:47.918] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:58.848] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsa5ldZl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:58.848] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsa5ldZl :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:57:58.849] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:0.524] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsYe2mNV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:0.526] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsYe2mNV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:0.532] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:5.472] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs7EQwyu :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:5.473] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacs7EQwyu :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:5.475] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:8.194] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsLrVy8G :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:8.196] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsLrVy8G :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:8.211] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:17.596] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsGghMFo :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:17.597] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsGghMFo :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:17.600] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:58:26.885] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/#ads.js# :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:5.635] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsVLDdj9 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:5.637] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsVLDdj9 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:5.650] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:5.660] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/#ads.js# :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:12.152] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsp916Yi :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:12.154] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsp916Yi :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:12.155] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:14.378] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsPl0aiJ :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:14.380] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsPl0aiJ :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:14.393] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:20.440] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsRAF2Hf :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:20.441] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsRAF2Hf :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[23:59:20.441] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:0:49.659] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/#ads.js# :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:1:39.557] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsEE9VhV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:1:39.559] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsEE9VhV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:1:39.569] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:1:39.580] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/#ads.js# :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:10:41.768] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsnLloXO :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:10:41.769] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsnLloXO :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:10:41.769] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:10:45.236] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:8.954] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsztrPOL :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:8.956] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsztrPOL :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:8.956] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:16.492] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsnNttfj :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:16.494] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsnNttfj :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:21:16.504] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:35.563] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacskxDmQM :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:35.565] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacskxDmQM :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:35.566] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:36.255] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsusigm4 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:36.257] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsusigm4 :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[0:27:36.263] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:17.625] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsAa4eli :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:17.630] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsAa4eli :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:17.631] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:18.615] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsU9SiBZ :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:18.617] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsU9SiBZ :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:18.623] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#database.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:22.790] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsSDywAV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:22.794] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsSDywAV :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:22.801] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:23.534] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsD4Pagz :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:23.537] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#-emacsD4Pagz :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:23.549] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/.#ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:16:43.894] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[2:16:43.896] Explicitly included types: []
+[2:16:43.907] Inferred typings from unresolved imports: []
+[2:16:43.910] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[2:16:43.910] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[2:16:43.912] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[2:16:43.913] Response has been sent.
+[2:16:43.914] No new typings were requested as a result of typings discovery
+[2:18:5.475] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/ads.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:18:5.476] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/bud.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:18:17.609] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/bud.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:18:17.611] DirectoryWatcher:: Triggered with w:/SimpleServers/js/src/database/buds.js :: WatchInfo: w:/SimpleServers/js/src/database recursive :: handler is already invoked 'false'
+[2:18:18.59] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.es5.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.dom.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","c:/Users/Owner/AppData/Roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts","w:/SimpleServers/js/src/database/database.js","w:/SimpleServers/js/src/database/buds.js","w:/SimpleServers/js/src/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"w:/SimpleServers/js/src","kind":"discover"}
+[2:18:18.61] Explicitly included types: []
+[2:18:18.63] Inferred typings from unresolved imports: []
+[2:18:18.64] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[2:18:18.65] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["w:/SimpleServers/js/src/database/bower_components","w:/SimpleServers/js/src/database/node_modules","w:/SimpleServers/js/src/bower_components","w:/SimpleServers/js/src/node_modules"]}
+[2:18:18.65] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[2:18:18.67] Response has been sent.
+[2:18:18.68] No new typings were requested as a result of typings discovery

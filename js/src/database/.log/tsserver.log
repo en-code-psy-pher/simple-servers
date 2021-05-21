@@ -1,0 +1,76 @@
+Info 0    [15:40:1.195] Starting TS Server
+Info 1    [15:40:1.196] Version: 3.8.3
+Info 2    [15:40:1.196] Arguments: C:\Program Files\nodejs\node.exe c:\Users\Owner\AppData\Roaming\npm\node_modules\typescript\bin\tsserver --logFile w:\SimpleServers\js\src\database\.log\tsserver.log --logVerbosity info --cancellationPipeName C:\Users\Owner\AppData\Local\Temp\24567ee4cd690830123ed0450d113d2f\tscancellation*
+Info 3    [15:40:1.196] Platform: win32 NodeVersion: 12 CaseSensitive: false
+Info 4    [15:40:1.207] Search path: w:/SimpleServers/js/src/database
+Info 5    [15:40:1.208] For info: w:/SimpleServers/js/src/database/database.js :: No config files found.
+Info 6    [15:40:1.213] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 7    [15:40:2.877] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1664ms
+Info 8    [15:40:2.877] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 9    [15:40:2.877] 	Files (100)
+
+Info 10   [15:40:2.877] -----------------------------------------------
+Info 11   [15:40:3.57] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 12   [15:40:3.75] Elapsed:: 18ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 13   [15:40:3.76] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 14   [15:40:3.76] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 15   [15:40:3.77] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/README.md :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 16   [15:40:3.77] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/README.md :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 17   [15:40:3.78] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/index.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 18   [15:40:3.78] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/index.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 19   [15:40:3.81] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 20   [15:40:3.81] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 21   [15:40:3.83] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/README.md :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 22   [15:40:3.83] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/README.md :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 23   [15:40:3.83] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/index.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 24   [15:40:3.85] Elapsed:: 2ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/index.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 25   [15:40:3.85] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 26   [15:40:3.87] Elapsed:: 2ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 27   [15:40:3.87] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 28   [15:40:3.93] Elapsed:: 6ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 29   [15:40:3.93] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 30   [15:40:3.93] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging/types-registry-950c5f00 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 31   [15:40:3.94] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 32   [15:40:3.96] Elapsed:: 2ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 33   [15:40:3.97] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json.3993660820 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 34   [15:40:3.97] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json.3993660820 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 35   [15:40:3.102] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 36   [15:40:3.103] Elapsed:: 1ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 37   [15:40:3.103] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json.3993660820 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 38   [15:40:3.103] Elapsed:: 0ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json.3993660820 :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 39   [15:40:3.104] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 40   [15:40:3.105] Elapsed:: 1ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/types-registry/package.json :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 41   [15:40:3.105] DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 42   [15:40:3.108] Elapsed:: 2ms DirectoryWatcher:: Triggered with C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules/.staging :: WatchInfo: C:/Users/Owner/AppData/Local/Microsoft/TypeScript/3.8/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 43   [15:40:3.148] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 44   [15:40:3.335] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 187ms
+Info 45   [15:40:3.335] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 46   [15:40:3.336] Structure before ensureProjectForOpenFiles:
+Info 47   [15:40:3.336] Structure after ensureProjectForOpenFiles:
+Info 48   [15:40:3.336] got projects updated in background, updating diagnostics for w:/SimpleServers/js/src/database/database.js
+Info 49   [15:40:3.436] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 50   [15:40:3.441] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 5ms
+Info 51   [15:40:3.442] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 52   [15:40:3.652] Structure before ensureProjectForOpenFiles:
+Info 53   [15:40:3.652] Structure after ensureProjectForOpenFiles:
+Info 54   [15:40:3.652] got projects updated in background, updating diagnostics for w:/SimpleServers/js/src/database/database.js
+Info 55   [15:40:6.80] Search path: w:/SimpleServers/js/src/database
+Info 56   [15:40:6.80] For info: w:/SimpleServers/js/src/database/buds.js :: No config files found.
+Info 57   [15:40:6.81] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 58   [15:40:6.259] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 178ms
+Info 59   [15:40:6.259] Project '/dev/null/inferredProject2*' (Inferred) 
+Info 60   [15:40:6.259] 	Files (101)
+
+Info 61   [15:40:6.259] -----------------------------------------------
+Info 62   [15:40:6.260] `remove Project::
+Info 63   [15:40:6.260] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 64   [15:40:6.260] 	Files (100)
+
+Info 65   [15:40:6.260] -----------------------------------------------
+Info 66   [15:40:6.433] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 67   [15:40:6.438] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: false Elapsed: 5ms
+Info 68   [15:40:6.438] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 69   [15:40:6.631] Structure before ensureProjectForOpenFiles:
+Info 70   [15:40:6.631] Structure after ensureProjectForOpenFiles:
+Info 71   [15:40:6.631] got projects updated in background, updating diagnostics for w:/SimpleServers/js/src/database/database.js,w:/SimpleServers/js/src/database/buds.js
+Info 72   [16:39:9.812] Exiting...
